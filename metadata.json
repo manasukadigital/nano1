@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Image Editor",
+  "description": "An advanced image editing application powered by Google's Gemini 'Nano Banana' model. Upload an image, provide a text prompt describing your desired changes, and let the AI generate a new version of your image.",
+  "requestFramePermissions": []
+}
